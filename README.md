@@ -2,7 +2,11 @@
 
 <h2>Who I Am:</h2>
 
-- WIP
+- Georgia Rae Harris
+- She/Her
+- Business Information & Analytics major at the University of Denver
+- Connect with me at _insert LinkedIn here_
+- Reach me at georgia.harris@du.edu
 
 <h2>What I'm Good At:</h2>
 
