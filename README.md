@@ -1,4 +1,25 @@
-### Hi there 👋
+<h1>Curious?</h1>
+
+<h2>Who I Am:</h2>
+
+- WIP
+
+<h2>What I'm Good At:</h2>
+
+- WIP
+
+<h2> What I've Worked On:</h2>
+
+- WIP
+
+<h2> Where I've Worked:</h2>
+
+- WIP
+
+<h2> Still here? Have a few fun facts:</h2>
+
+- WIP
+
 
 <!--
 **GeorgiaHarris/GeorgiaHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
