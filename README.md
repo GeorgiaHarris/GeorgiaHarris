@@ -5,20 +5,20 @@
 - Georgia Rae Harris
 - She/Her
 - Business Information & Analytics major at the University of Denver
-- Connect with me at _insert LinkedIn here_
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/georgia-rae-harris/)
 - Reach me at georgia.harris@du.edu
 
 <h2>What I'm Good At:</h2>
 
-- WIP
+[My Skillsets](https://github.com/GeorgiaHarris/GH-Skillsets)
 
 <h2> What I've Worked On:</h2>
 
-- WIP
+[Examples of My Project Work](https://github.com/GeorgiaHarris/GH-Projects)
 
 <h2> Where I've Worked:</h2>
 
-- WIP
+[Accumulated Experience](https://github.com/GeorgiaHarris/GH-Experience)
 
 
 <!--
