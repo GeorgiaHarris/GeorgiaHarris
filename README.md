@@ -20,10 +20,6 @@
 
 - WIP
 
-<h2> Still here? Have a few fun facts:</h2>
-
-- WIP
-
 
 <!--
 **GeorgiaHarris/GeorgiaHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
